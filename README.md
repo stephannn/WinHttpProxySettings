@@ -1,0 +1,2 @@
+# WinHttpProxySettings
+WinHTTP Proxy Configuration

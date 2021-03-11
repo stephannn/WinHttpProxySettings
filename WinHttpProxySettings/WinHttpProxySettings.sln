@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinHttpProxySettingsLibrary", "WinHttpProxySettingsLibrary\WinHttpProxySettingsLibrary.csproj", "{B8561606-61A2-4480-A978-FE34DC1DF895}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinHttpProxySettingsInterface", "WinHttpProxySettingsInterface\WinHttpProxySettingsInterface.csproj", "{2A1068BA-A046-45A6-BBD4-F23504134DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8561606-61A2-4480-A978-FE34DC1DF895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8561606-61A2-4480-A978-FE34DC1DF895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8561606-61A2-4480-A978-FE34DC1DF895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8561606-61A2-4480-A978-FE34DC1DF895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1068BA-A046-45A6-BBD4-F23504134DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1068BA-A046-45A6-BBD4-F23504134DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1068BA-A046-45A6-BBD4-F23504134DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1068BA-A046-45A6-BBD4-F23504134DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66EE14B0-72EA-4C1C-86E0-3A5F1192D82F}
+	EndGlobalSection
+EndGlobal

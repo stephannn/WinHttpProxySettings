@@ -2,7 +2,7 @@
 WinHTTP Proxy Configuration in C#: netsh winhttp * proxy
 
 # Intellectual Property
-The intellectual property comes from Xavier Plantefève:
+The intellectual property comes from Xavier Plantefève:  
 https://gist.github.com/XPlantefeve/a53a6af53b458188ee0766acc8508776
 
 # Example

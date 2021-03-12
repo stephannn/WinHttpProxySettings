@@ -6,6 +6,7 @@ The intellectual property comes from Xavier Plantefève:
 https://gist.github.com/XPlantefeve/a53a6af53b458188ee0766acc8508776
 
 # Example
+```
 IWinHttpProxySettingsInterface wps = new WinHttpProxySettings();  
 List<IWinHttpProxySettingsInterface.IWinHttpProxyConfig> whpcList = wps.GetWinHttpProxySettings(new ContextObject[] { ContextObject.LocalMachine });  
 
@@ -22,3 +23,4 @@ foreach (IWinHttpProxySettingsInterface.IWinHttpProxyConfig whpc in whpcList)
 }  
 
 wps.SetWinHttpProxySettings(ContextObject.LocalMachine, WinHttpFlags.auto, "10.0.0.8");  
+```
